@@ -1,6 +1,6 @@
 function [] = func_tensor_fit(inputArg1)
 % Create functional correlational tensors using fMRI data. Takes timeseries data extracted using 3dNetCorr; alternatively, any form of
-% [X1,Y1,Z1, t,i,m,e,s,e,r,i,e,s] should work.
+% [X1,Y1,Z1, t1,t2,t3,t4...] should work.
 
 %   Create Functional Correlational Tensors using fMRI data:
 
